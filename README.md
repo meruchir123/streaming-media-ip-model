@@ -10,6 +10,10 @@ The project is framed around a realistic streaming-industry question:
 
 ---
 
+## Business Report
+
+[View the full Business & Technical Report](Streaming_Media_IP_Acquisition_Business_Report-1 (1).pdf)
+
 ## Project Overview
 
 Streaming platforms have thousands of potential titles to evaluate. Acquisition teams need to balance audience demand, popularity, licensing availability, cost, competition, and long-term IP potential.
